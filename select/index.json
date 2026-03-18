@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "closer again",
+  "base_artist": "Miyuu",
+  "createdAt": "2026-03-18T22:13:57.361630Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Closer Again",
+      "artist": "The Anix",
+      "has_synced": false,
+      "path": "select/01_Closer_Again_The_Anix.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "closer again",
+      "artist": "Miyuu",
+      "has_synced": true,
+      "path": "select/02_closer_again_Miyuu.lrc"
+    }
+  ]
+}
